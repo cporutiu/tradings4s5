@@ -1,0 +1,6 @@
+alpaca-py==0.43.2
+vaderSentiment==3.3.2
+duckdb==1.5.2
+requests==2.33.1
+pandas==3.0.2
+python-dotenv==1.2.2
